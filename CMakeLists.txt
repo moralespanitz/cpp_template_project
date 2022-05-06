@@ -1,0 +1,1 @@
+project(cpp_template_project)
