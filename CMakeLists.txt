@@ -1,1 +1,5 @@
+cmake_minimum_required(VERSION 3.22)
 project(cpp_template_project)
+enable_testing()
+add_subdirectory(tests)
+add_subdirectory(src)

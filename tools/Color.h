@@ -6,7 +6,6 @@
 
 namespace Color
 {
-
     enum StringsColor
     {
         BLACK = 30,
