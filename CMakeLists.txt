@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.22)
 project(cpp_template_project)
-set(CMAKE_CXX_FLAGS "--coverage -fprofile-use")
+#set(CMAKE_CXX_FLAGS "--coverage -fprofile-use")
 set(ROOT_PROJECT ${CMAKE_CURRENT_SOURCE_DIR})
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${ROOT_PROJECT}/bin)
 set(CMAKE_PDB_OUTPUT_DIRECTORY ${ROOT_PROJECT}/bin)
